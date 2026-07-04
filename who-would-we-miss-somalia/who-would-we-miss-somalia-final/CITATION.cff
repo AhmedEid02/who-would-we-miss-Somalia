@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Who Would We Miss? A Bayesian Climate Shock-to-Action Targeting Analysis Using SIHBS 2022"
+message: "If you use this workflow, please cite it as below."
+type: software
+authors:
+  - family-names: Ismail
+    given-names: Ahmed Hussein
+    affiliation: Independent Researcher, Hargeisa, Somalia
+year: 2026
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/who-would-we-miss-somalia"
+abstract: "A reproducible Bayesian hierarchical logistic-regression and targeting-simulation workflow for identifying high-risk unreached households using SIHBS 2022 microdata."
+keywords:
+  - Bayesian statistics
+  - climate risk
+  - food security
+  - Somalia
+  - targeting simulation
+  - early warning

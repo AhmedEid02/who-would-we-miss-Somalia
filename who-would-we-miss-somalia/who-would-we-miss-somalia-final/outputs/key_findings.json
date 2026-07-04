@@ -1,0 +1,18 @@
+{
+  "n_households": 7212,
+  "n_regions": 17,
+  "weighted_climate_livelihood_shock_pct": 71.91615588420794,
+  "weighted_food_insecurity_pct": 44.08079305827968,
+  "weighted_formal_support_pct": 3.796718939283969,
+  "weighted_high_risk_unreached_pct": 40.05224440834672,
+  "bayesian_recall_20pct_support": 33.956609641874,
+  "shock_only_recall_20pct_support": 27.839030879904573,
+  "poverty_only_recall_20pct_support": 19.500074569492575,
+  "drought_only_recall_20pct_support": 29.093574128747097,
+  "region_recall_20pct_support": 28.814952103867064,
+  "random_recall_20pct_support": 20.0001153734013,
+  "bayesian_missed_20pct_support": 66.043390358126,
+  "shock_only_missed_20pct_support": 72.16096912009542,
+  "top_region_by_bayesian_risk": "Sool",
+  "top_region_bayesian_risk_pct": 58.22050566144475
+}

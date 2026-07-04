@@ -1,0 +1,8 @@
+variable,definition
+climate_livelihood_shock,"Any drought/water shortage, food-price, livestock death, flood, or crop/agricultural price shock reported."
+moderate_severe_food_insecurity,Analytical proxy: FIES raw score >= 4 affirmative responses.
+erosive_coping,"Any erosive/stress response including selling assets/land/livestock, removing children from school, borrowing from money lender, reducing food consumption, eating lower-cost foods, or reducing non-food expenditure."
+formal_support_received,"Any response help from international organization, local NGO, or government."
+high_risk_unreached,Climate/livelihood shock + food insecurity or erosive coping + no formal support.
+bayesian_risk,Posterior mean predicted probability from Bayesian hierarchical logistic model; household-level values excluded publicly.
+direct_need_score,Upper-bound benchmark score using direct post-impact need information.
